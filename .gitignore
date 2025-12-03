@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 __pycache__/
+=======
+.venv
+venv
+__pycache__/
+*.pyc
+data/
+*.pdb
+.env
+>>>>>>> 8853e52ac171f54455ee58fba14bd92ba62dbb05
